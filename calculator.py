@@ -13,4 +13,3 @@ def divide_free(a, b):
 
 def square(a):  
     return a*a
-
